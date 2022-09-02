@@ -3,7 +3,7 @@ Actividad #2 para el curso de Programación Orientada a Objetos de la Universida
 > Integrantes del grupo:
 > - Kevin Daniel Guio Covilla 
 > - Jessica Paola Vega Alvarado
-> - William Harrinson Tombe Lagos
+> - William Harrison Tombe Lagos
 # Trabajo
 El trabajo esta divido en 2 partes, la 1ra parte estan los 13 ejercicios en java. Tomados del libro Lógica de Programación de Efraín Oviedo.
 > Capitulo 3: Estructura secuencial
